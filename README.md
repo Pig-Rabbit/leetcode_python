@@ -9,3 +9,6 @@ URL: https://leetcode.com/problems/
 2. Add Two Numbers - Done
 - Runtime: 76 ms, faster than 22.88% of Python3 online submissions for Add Two Numbers.
 - Memory Usage: 14.4 MB, less than 43.77% of Python3 online submissions for Add Two Numbers.
+2.1. Add Two Numbers - Done
+- Runtime: 68 ms, faster than 71.80% of Python3 online submissions for Add Two Numbers.
+- Memory Usage: 14.1 MB, less than 97.97% of Python3 online submissions for Add Two Numbers.
