@@ -18,4 +18,6 @@ URL: https://leetcode.com/problems/
 3. Longest Substring Without Repeating Characters_2 - Done
 - Runtime: 176 ms, faster than 23.16% of Python3 online submissions for Longest Substring Without Repeating Characters.
 - Memory Usage: 14.4 MB, less than 25.72% of Python3 online submissions for Longest Substring Without Repeating Characters.
-
+4. Median of Two Sorted Arrays - Done
+- Runtime: 324 ms, faster than 5.01% of Python3 online submissions for Median of Two Sorted Arrays.
+- Memory Usage: 14.7 MB, less than 21.46% of Python3 online submissions for Median of Two Sorted Arrays.
