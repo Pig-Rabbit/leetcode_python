@@ -32,3 +32,6 @@
 7. Reverse Integer - Done
 - Runtime: 24 ms, faster than 96.46% of Python3 online submissions for Reverse Integer.
 - Memory Usage: 14.2 MB, less than 44.57% of Python3 online submissions for Reverse Integer.
+8. String to Integer - Done
+- Runtime: 32 ms, faster than 79.42% of Python3 online submissions for String to Integer (atoi).
+- Memory Usage: 14.4 MB, less than 23.53% of Python3 online submissions for String to Integer (atoi).
