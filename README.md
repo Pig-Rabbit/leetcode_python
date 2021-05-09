@@ -21,3 +21,6 @@ URL: https://leetcode.com/problems/
 4. Median of Two Sorted Arrays - Done
 - Runtime: 324 ms, faster than 5.01% of Python3 online submissions for Median of Two Sorted Arrays.
 - Memory Usage: 14.7 MB, less than 21.46% of Python3 online submissions for Median of Two Sorted Arrays.
+5. Longest Palindromic Substring - Done
+- Runtime: 916 ms, faster than 84.01% of Python3 online submissions for Longest Palindromic Substring.
+- Memory Usage: 14.3 MB, less than 81.97% of Python3 online submissions for Longest Palindromic Substring.
