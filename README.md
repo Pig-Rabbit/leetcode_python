@@ -29,3 +29,6 @@
 6. ZigZag Conversion - Done
 - Runtime: 64 ms, faster than 47.80% of Python3 online submissions for ZigZag Conversion.
 - Memory Usage: 14.2 MB, less than 86.98% of Python3 online submissions for ZigZag Conversion.
+7. Reverse Integer - Done
+- Runtime: 24 ms, faster than 96.46% of Python3 online submissions for Reverse Integer.
+- Memory Usage: 14.2 MB, less than 44.57% of Python3 online submissions for Reverse Integer.
