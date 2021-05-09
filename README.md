@@ -35,3 +35,6 @@
 8. String to Integer - Done
 - Runtime: 32 ms, faster than 79.42% of Python3 online submissions for String to Integer (atoi).
 - Memory Usage: 14.4 MB, less than 23.53% of Python3 online submissions for String to Integer (atoi).
+9. Palindrome Number - Done
+- Runtime: 56 ms, faster than 75.25% of Python3 online submissions for Palindrome Number.
+- Memory Usage: 14.2 MB, less than 76.45% of Python3 online submissions for Palindrome Number.
