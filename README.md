@@ -44,3 +44,6 @@
 12. Integer to Roman - Done
 - Runtime: 40 ms, faster than 94.52% of Python3 online submissions for Integer to Roman.
 - Memory Usage: 14.2 MB, less than 83.11% of Python3 online submissions for Integer to Roman.
+13. Roman to Integer - Done
+- Runtime: 52 ms, faster than 36.08% of Python3 online submissions for Roman to Integer.
+- Memory Usage: 14.2 MB, less than 57.33% of Python3 online submissions for Roman to Integer.
