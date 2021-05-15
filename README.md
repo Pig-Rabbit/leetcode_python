@@ -47,3 +47,6 @@
 13. Roman to Integer - Done
 - Runtime: 52 ms, faster than 36.08% of Python3 online submissions for Roman to Integer.
 - Memory Usage: 14.2 MB, less than 57.33% of Python3 online submissions for Roman to Integer.
+14. Longest Common Prefix - Done
+- Runtime: 32 ms, faster than 77.24% of Python3 online submissions for Longest Common Prefix.
+- Memory Usage: 14.5 MB, less than 25.39% of Python3 online submissions for Longest Common Prefix.
