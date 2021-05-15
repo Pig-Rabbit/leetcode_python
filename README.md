@@ -50,3 +50,6 @@
 14. Longest Common Prefix - Done
 - Runtime: 32 ms, faster than 77.24% of Python3 online submissions for Longest Common Prefix.
 - Memory Usage: 14.5 MB, less than 25.39% of Python3 online submissions for Longest Common Prefix.
+15. 3Sum - Done
+- Runtime: 1728 ms, faster than 36.49% of Python3 online submissions for 3Sum.
+- Memory Usage: 17.6 MB, less than 38.78% of Python3 online submissions for 3Sum.
